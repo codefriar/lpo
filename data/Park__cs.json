@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef1"
+            },
+            "Name": "Hyrule National Park",
+            "Description__c": "Home of the legendary Chickens who can help you fly.",
+            "Acres__c": 300573,
+            "Protected_Animal_Preserve__c": false,
+            "Lead_Ranger__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v42.0/sobjects/Contact/003R000001JL1j9IAD"
+                },
+                "FirstName": null,
+                "LastName": "Link"
+            }
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef2"
+            },
+            "Name": "The Shire National Park",
+            "Description__c": "Home to our beloved hobbit sized friends",
+            "Acres__c": 2281440,
+            "Protected_Animal_Preserve__c": false,
+            "Lead_Ranger__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v42.0/sobjects/Contact/003R000001JL1j4IAD"
+                },
+                "FirstName": "Gandalf",
+                "LastName": "The White"
+            }
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef3"
+            },
+            "Name": "Grand Hoth National Park",
+            "Description__c": "A winter wonderland",
+            "Acres__c": 310000,
+            "Protected_Animal_Preserve__c": false,
+            "Lead_Ranger__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v42.0/sobjects/Contact/003R000001JL1jEIAT"
+                },
+                "FirstName": "Leia",
+                "LastName": "Organa-Solo"
+            }
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef4"
+            },
+            "Name": "Jellystone National Park",
+            "Description__c": "Codey's cousin Yodi lives here.",
+            "Acres__c": 2221440,
+            "Protected_Animal_Preserve__c": true,
+            "Lead_Ranger__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v42.0/sobjects/Contact/003R000001JL1izIAD"
+                },
+                "FirstName": null,
+                "LastName": "Smith"
+            }
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef5"
+            },
+            "Name": "Enfield National Park",
+            "Description__c": "Nature not your thing? Check out this 100% paved sports park!",
+            "Acres__c": 40,
+            "Protected_Animal_Preserve__c": false,
+            "Lead_Ranger__r": {
+                "attributes": {
+                    "type": "Contact",
+                    "url": "/services/data/v42.0/sobjects/Contact/003R000001JL1jJIAT"
+                },
+                "FirstName": null,
+                "LastName": "Wallace"
+            }
+        }
+    ]
+}
