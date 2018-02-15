@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#49B436</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Application easily manage parks and animals sighted within them.</description>
+    <formFactors>Large</formFactors>
+    <label>Park Manager</label>
+    <navType>Standard</navType>
+    <tabs>Park__c</tabs>
+    <tabs>Known_Animal__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Park_Manager_UtilityBar</utilityBar>
+</CustomApplication>
