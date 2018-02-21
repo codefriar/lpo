@@ -53,12 +53,12 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>ReadWrite</externalSharingModel>
-    <label>Known Animal</label>
+    <label>Animal</label>
     <nameField>
         <label>Animal Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Known Animals</pluralLabel>
+    <pluralLabel>Animals</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>

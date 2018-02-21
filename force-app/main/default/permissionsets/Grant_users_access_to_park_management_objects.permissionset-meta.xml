@@ -6,19 +6,15 @@
     </applicationVisibilities>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Known_Animal__c.Description__c</field>
+        <field>Animal__c.Description__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Known_Animal__c.Endangered__c</field>
+        <field>Animal__c.Endangered__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Known_Animal__c.Image_Link_c__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
+
     <fieldPermissions>
         <editable>true</editable>
         <field>Park__c.Acres__c</field>
@@ -52,7 +48,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
-        <object>Known_Animal__c</object>
+        <object>Animal__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -64,17 +60,9 @@
         <object>Park__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>Sighted_Animal__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
+   
     <tabSettings>
-        <tab>Known_Animal__c</tab>
+        <tab>Animal__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
     <tabSettings>

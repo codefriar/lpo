@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
-    <applicationVisibilities>
-        <application>Park_Manager</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Known_Animal__c.Description__c</field>
+        <field>Animal__c.Description__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Known_Animal__c.Endangered__c</field>
+        <field>Animal__c.Endangered__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Known_Animal__c.Image_Link_c__c</field>
+        <field>Animal__c.Image_Link__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -46,19 +41,10 @@
         <field>Park__c.Protected_Animal_Preserve__c</field>
         <readable>false</readable>
     </fieldPermissions>
-    <layoutAssignments>
-        <layout>Known_Animal__c-Known Animal Layout</layout>
-    </layoutAssignments>
+
     <layoutAssignments>
         <layout>Park__c-Park Layout</layout>
     </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sighted_Animal__c-Sighted Animal Layout</layout>
-    </layoutAssignments>
-    <tabVisibilities>
-        <tab>Sighted_Animal__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
