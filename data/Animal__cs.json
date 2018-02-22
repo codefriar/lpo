@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef1"
+            },
+            "Name": "Grey Squirrel",
+            "Endangered__c": false,
+            "Image_Link__c": "https://i.imgur.com/7UfcXru.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef2"
+            },
+            "Name": "Bengal Tiger",
+            "Endangered__c": true,
+            "Image_Link__c": "https://i.imgur.com/AcW0Zq0.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef3"
+            },
+            "Name": "Mountain Lion",
+            "Endangered__c": true,
+            "Image_Link__c": "https://i.imgur.com/wFk2PuX.png"
+        },
+        {
+            "attributes": {
+                "type": "Animal__c",
+                "referenceId": "Animal__cRef4"
+            },
+            "Name": "Pigeon",
+            "Endangered__c": false,
+            "Image_Link__c": "https://i.imgur.com/2qzmuoM.jpg"
+        }
+    ]
+}

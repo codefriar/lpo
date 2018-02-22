@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Animal__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Animal__cs.json"
+        ]
+    }
+]

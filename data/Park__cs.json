@@ -1,0 +1,23 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef1"
+            },
+            "Name": "Apex National Park",
+            "Acres__c": 500000,
+            "Protected_Animal_Preserve__c": false
+        },
+        {
+            "attributes": {
+                "type": "Park__c",
+                "referenceId": "Park__cRef2"
+            },
+            "Name": "Dreampark",
+            "Acres__c": 2,
+            "Description__c": "Beautiful downtown park",
+            "Protected_Animal_Preserve__c": true
+        }
+    ]
+}

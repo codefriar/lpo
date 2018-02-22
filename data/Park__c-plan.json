@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Park__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Park__cs.json"
+        ]
+    }
+]
