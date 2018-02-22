@@ -1,0 +1,947 @@
+[
+    [
+        "/Users/kpoorman/lpo/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518709890894,
+            "changeTime": 1518709890894,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518709890894,
+            "changeTime": 1518709890894,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "ca8776150ec963b137b165446dbeb972b96fdcb0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518710848776,
+            "changeTime": 1518710848776,
+            "contentHash": "5b0f6c0987ae814fc317e5bcea6745373ff84359",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/applications/Park_Manager.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/applications/Park_Manager.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 592,
+            "modifiedTime": 1519169491491,
+            "changeTime": 1519169491491,
+            "contentHash": "d93ce9daf008a7e89eef363d5d3c233e52070099",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519329354480,
+            "changeTime": 1519329354480,
+            "contentHash": "fe965fc3aeb03ec222558434d46f0f5c5b17e9c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1519329354480,
+            "changeTime": 1519329354480,
+            "contentHash": "d9f65b7281948fba3d569c2961bd968c4f88eacc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingView.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingView.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 792,
+            "modifiedTime": 1519329354480,
+            "changeTime": 1519329354480,
+            "contentHash": "38dfce1349e3dc109b7158336b533a5d41114da8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingView.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingView.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1519329354480,
+            "changeTime": 1519329354480,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingViewController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/aura/ParkAnimalSightingView/ParkAnimalSightingViewController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 533,
+            "modifiedTime": 1519329354480,
+            "changeTime": 1519329354480,
+            "contentHash": "87bf506f891b41eb1882c7f98835eb52f65f6c9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519329354481,
+            "changeTime": 1519329354481,
+            "contentHash": "4aaf4e9a2b1e6ca4fd40372075318bfcc39f5045",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/classes/ParkAnimalSightingController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/classes/ParkAnimalSightingController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 566,
+            "modifiedTime": 1519329354481,
+            "changeTime": 1519329354481,
+            "contentHash": "23dadf494557d67c3531feb175bcd7320fb77b69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/classes/ParkAnimalSightingController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/classes/ParkAnimalSightingController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1519329354481,
+            "changeTime": 1519329354481,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519329354481,
+            "changeTime": 1519329354481,
+            "contentHash": "f7a36d2bc2beea549f83451142feefce000e501f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Manager_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Manager_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1518710848778,
+            "changeTime": 1518710848778,
+            "contentHash": "4582d6579c2a5e56f631548fa8e6b68834ebe0f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Record_Page.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4515,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "bc1cea4b1ff6ea9775e09b7326883e34ac805cbc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flowDefinitions",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "a2d58707113ae1df10aeeea319773114efe551e4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flowDefinitions/Automated_Update_of_Parks_When_we_see_an_Endangered_Animal.flowDefinition-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flowDefinitions/Automated_Update_of_Parks_When_we_see_an_Endangered_Animal.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "90e50e0539e55d5b3c16d81679e8e7317df12555",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/flows/Automated_Update_of_Parks_When_we_see_an_Endangered_Animal-1.flow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flows/Automated_Update_of_Parks_When_we_see_an_Endangered_Animal-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7247,
+            "modifiedTime": 1519329354482,
+            "changeTime": 1519329354482,
+            "contentHash": "117ee7acd072adb291d26a88777d9db46ad37325",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1519327749118,
+            "changeTime": 1519327749118,
+            "contentHash": "954ca550715327b816531a0dfd5595289867cb24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/layouts/Animal_Sighting__c-Animal Sighting Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/layouts/Animal_Sighting__c-Animal Sighting Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2067,
+            "modifiedTime": 1519327749118,
+            "changeTime": 1519327749118,
+            "contentHash": "e4a2bc3451417e80cd09ccca67f1ba21f6687986",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/layouts/Animal__c-Animal Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/layouts/Animal__c-Animal Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2241,
+            "modifiedTime": 1519174727784,
+            "changeTime": 1519174727784,
+            "contentHash": "a1d2665eba66dcd65d253c22e83f18fd1c64c7cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/layouts/Park__c-Park Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/layouts/Park__c-Park Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3642,
+            "modifiedTime": 1518710848781,
+            "changeTime": 1518710848781,
+            "contentHash": "9092cee11634a9993a9b3fbe66a7eadcbf2072b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1519327749114,
+            "changeTime": 1519327749114,
+            "contentHash": "4ec502c641ec4b8a405409d5fb7de930d55b1b40",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519327749115,
+            "changeTime": 1519327749115,
+            "contentHash": "1117bdf243bce3c3109684d0433665516fc3534c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/Animal_Sighting__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/Animal_Sighting__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2275,
+            "modifiedTime": 1519327749115,
+            "changeTime": 1519327749115,
+            "contentHash": "1ad069b143fa3aed992ce89a0eb49ab55269bd79",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519329354483,
+            "changeTime": 1519329354483,
+            "contentHash": "ce78ddc5e3db898691cc063fb85dc88a80f5c3d7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Animal__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Animal__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 612,
+            "modifiedTime": 1519327749115,
+            "changeTime": 1519327749115,
+            "contentHash": "414cc9e344a02671fb817b2d5164ecbb5e54f81c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Park__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Park__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 606,
+            "modifiedTime": 1519329354483,
+            "changeTime": 1519329354483,
+            "contentHash": "cebb344891f2021b38df278f0ac352203bd36078",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1519145288114,
+            "changeTime": 1519145288114,
+            "contentHash": "8921fabb2acf7dc9a33ff10eec34fde63b7b542f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/Animal__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/Animal__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2320,
+            "modifiedTime": 1519327749109,
+            "changeTime": 1519327749109,
+            "contentHash": "62d672809450701b3e71dbd8ab878bed79002ab3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1518733064030,
+            "changeTime": 1518733064030,
+            "contentHash": "afeb620cd31fd8815f7089e35a109c8b8c42e6aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1518710848787,
+            "changeTime": 1518710848787,
+            "contentHash": "8b9a8cdb7436ce1c43d047c333ed3cc6f3c27048",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Endangered__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Endangered__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 326,
+            "modifiedTime": 1518710848787,
+            "changeTime": 1518710848787,
+            "contentHash": "001cbb76793e76806235778c500ac68cd16426c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Image_Link__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/fields/Image_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 313,
+            "modifiedTime": 1518733064030,
+            "changeTime": 1518733064030,
+            "contentHash": "e125de6804e3e0a430666ba5f611595f401df1f2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519327749110,
+            "changeTime": 1519327749110,
+            "contentHash": "355adeef8618b3c32fcb8ac0f8f9197810d3ab17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1518710848788,
+            "changeTime": 1518710848788,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews/full_view.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal__c/listViews/full_view.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 312,
+            "modifiedTime": 1519327749110,
+            "changeTime": 1519327749110,
+            "contentHash": "7073e4915e2c3cf26072348ea02609e57d9d9264",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1518710848796,
+            "changeTime": 1518710848796,
+            "contentHash": "71809c4438f0b58d848b4b4766ee1f3546aad881",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/Park__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/Park__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2648,
+            "modifiedTime": 1519327749101,
+            "changeTime": 1519327749101,
+            "contentHash": "a0b6cb29d097f86d900de796a158ddc9f5b73e19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1518710848796,
+            "changeTime": 1518710848796,
+            "contentHash": "eb12bc3c04add9b10d90fee1e2c0edf3a9bd8ca6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Acres__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Acres__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1518710848795,
+            "changeTime": 1518710848795,
+            "contentHash": "eb14f7cafcd024c596f7264d021185f5743a7ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 355,
+            "modifiedTime": 1518710848795,
+            "changeTime": 1518710848795,
+            "contentHash": "8b9a8cdb7436ce1c43d047c333ed3cc6f3c27048",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Lead_Ranger__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Lead_Ranger__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 502,
+            "modifiedTime": 1518710848795,
+            "changeTime": 1518710848795,
+            "contentHash": "66a5f955e73b52635388c9f82115a2558b525c80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Location__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1518710848796,
+            "changeTime": 1518710848796,
+            "contentHash": "765dd1fc793fd3d037c2c695ed7ba910aefdbd05",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Protected_Animal_Preserve__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/fields/Protected_Animal_Preserve__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1518710848796,
+            "changeTime": 1518710848796,
+            "contentHash": "a51ffe4f7d9917b8fa9a056f322bb574e01e39f7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519327749101,
+            "changeTime": 1519327749101,
+            "contentHash": "355adeef8618b3c32fcb8ac0f8f9197810d3ab17",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1518710848796,
+            "changeTime": 1518710848796,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews/full_view.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Park__c/listViews/full_view.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 328,
+            "modifiedTime": 1519327749101,
+            "changeTime": 1519327749101,
+            "contentHash": "58e3bab4eb8be2bf115ea8c770fe471d4d4d3590",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518711940002,
+            "changeTime": 1518711940002,
+            "contentHash": "ea5aa36d4282ae1cc865b52554d93502abe0ed60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/permissionsets/Grant_users_access_to_park_management_objects.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/permissionsets/Grant_users_access_to_park_management_objects.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2558,
+            "modifiedTime": 1519181655141,
+            "changeTime": 1519181655141,
+            "contentHash": "37704b85b43f298995c77f70c5ca11aa3f57a4d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1518711435077,
+            "changeTime": 1518711435077,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20311,
+            "modifiedTime": 1519327749174,
+            "changeTime": 1519327749174,
+            "contentHash": "1ae66c7d9f32369f754aff5d45b81bacbea6490a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6255,
+            "modifiedTime": 1519327749145,
+            "changeTime": 1519327749145,
+            "contentHash": "f516b0f9243879ff1013b94bb4cfc126eb11e408",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6255,
+            "modifiedTime": 1519327749135,
+            "changeTime": 1519327749135,
+            "contentHash": "f516b0f9243879ff1013b94bb4cfc126eb11e408",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6593,
+            "modifiedTime": 1519327749155,
+            "changeTime": 1519327749155,
+            "contentHash": "c9b84ad985314dd109d48fa32ca68fafa4214eff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1519178092123,
+            "changeTime": 1519178092123,
+            "contentHash": "5014d40881b0c5c84a3d75299853dc53bf2d64a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/tabs/Animal__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/tabs/Animal__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1519173023000,
+            "changeTime": 1519173023006,
+            "contentHash": "67011797315ed4f41fad90a5a595da8497ce0ee8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/tabs/Park__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/tabs/Park__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 220,
+            "modifiedTime": 1518710848800,
+            "changeTime": 1518710848800,
+            "contentHash": "ceb248a73fb162f1dcf8d2d3ef566b30b1095fb1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/workflows",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/workflows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1519327749127,
+            "changeTime": 1519327749127,
+            "contentHash": "23ac82fbcfbf6b4d679e925bf4d44e47f47324d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo/force-app/main/default/workflows/Animal_Sighting__c.workflow-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/workflows/Animal_Sighting__c.workflow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 99,
+            "modifiedTime": 1519327749128,
+            "changeTime": 1519327749128,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kpoorman/lpo",
+        {
+            "state": "n",
+            "sourcePath": "/Users/kpoorman/lpo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 448,
+            "modifiedTime": 1519329354479,
+            "changeTime": 1519329354479,
+            "contentHash": "78ffb56e3b931f484679dafe1c25a80fd2978ded",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

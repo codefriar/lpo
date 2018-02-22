@@ -17,7 +17,7 @@
             "Name": "Dreampark",
             "Acres__c": 2,
             "Description__c": "Beautiful downtown park",
-            "Protected_Animal_Preserve__c": true
+            "Protected_Animal_Preserve__c": false
         }
     ]
 }
