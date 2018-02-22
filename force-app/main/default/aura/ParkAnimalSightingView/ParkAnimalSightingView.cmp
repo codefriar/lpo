@@ -1,0 +1,23 @@
+<aura:component controller="ParkAnimalSightingController" implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+		
+	 <aura:attribute name="park" type="Object"/>
+	 <aura:attribute name="animals" type="List" />
+	 <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+		
+	 <force:recordData aura:id="parkRecord"
+				recordId="{!v.recordId}"
+				fields="Id,Name"
+				targetFields="{!v.park}"
+				mode="VIEW"
+		/>
+		
+		<lightning:card >
+		<div class="slds-text-heading_medium">
+		These animals have been spotted at {!v.park.Name}
+		</div>
+            <aura:iteration items="{!v.animals}" var="animal">
+						<img src="{!animal.Image_Link__c}" style="max-height: 400px, max-width: 400px" /><br/>
+				</aura:iteration>
+		</lightning:card>
+		
+</aura:component>

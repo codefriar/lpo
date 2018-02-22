@@ -38,36 +38,30 @@
     </actionOverrides>
     <actionOverrides>
         <actionName>View</actionName>
-        <comment>Action override created by Lightning App Builder during activation.</comment>
-        <content>Park_Record_Page</content>
-        <formFactor>Large</formFactor>
-        <skipRecordTypeSelect>false</skipRecordTypeSelect>
-        <type>Flexipage</type>
+        <type>Default</type>
     </actionOverrides>
     <allowInChatterGroups>false</allowInChatterGroups>
     <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
     <deploymentStatus>Deployed</deploymentStatus>
-    <enableActivities>true</enableActivities>
+    <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
-    <enableReports>true</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableReports>false</enableReports>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <externalSharingModel>ReadWrite</externalSharingModel>
-    <label>Park</label>
+    <externalSharingModel>ControlledByParent</externalSharingModel>
+    <label>Animal Sighting</label>
     <nameField>
-        <label>Park Name</label>
-        <type>Text</type>
+        <displayFormat>Sighting-{000000000}</displayFormat>
+        <label>Animal Sighting #</label>
+        <type>AutoNumber</type>
     </nameField>
-    <pluralLabel>Parks</pluralLabel>
-    <searchLayouts>
-        <searchResultsAdditionalFields>Acres__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Lead_Ranger__c</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>Protected_Animal_Preserve__c</searchResultsAdditionalFields>
-    </searchLayouts>
-    <sharingModel>ReadWrite</sharingModel>
+    <pluralLabel>Animal Sightings</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ControlledByParent</sharingModel>
+    <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
 </CustomObject>

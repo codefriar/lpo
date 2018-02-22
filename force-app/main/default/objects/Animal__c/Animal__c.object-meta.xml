@@ -59,7 +59,10 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Animals</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <searchResultsAdditionalFields>Endangered__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Image_Link__c</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

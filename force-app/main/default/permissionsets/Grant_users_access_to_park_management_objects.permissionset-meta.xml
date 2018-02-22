@@ -14,7 +14,11 @@
         <field>Animal__c.Endangered__c</field>
         <readable>true</readable>
     </fieldPermissions>
-
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Animal__c.Image_Link__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Park__c.Acres__c</field>
@@ -60,7 +64,6 @@
         <object>Park__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
-   
     <tabSettings>
         <tab>Animal__c</tab>
         <visibility>Visible</visibility>

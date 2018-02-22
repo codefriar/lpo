@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Park_Manager</application>
+        <default>false</default>
+        <visible>false</visible>
+    </applicationVisibilities>
+    <classAccesses>
+        <apexClass>ParkAnimalSightingController</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
@@ -41,7 +50,12 @@
         <field>Park__c.Protected_Animal_Preserve__c</field>
         <readable>false</readable>
     </fieldPermissions>
-
+    <layoutAssignments>
+        <layout>Animal_Sighting__c-Animal Sighting Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Animal__c-Animal Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Park__c-Park Layout</layout>
     </layoutAssignments>
