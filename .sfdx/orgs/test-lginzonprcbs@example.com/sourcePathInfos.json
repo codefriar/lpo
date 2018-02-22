@@ -167,14 +167,14 @@
     [
         "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/flexipages/Park_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4390,
             "modifiedTime": 1519328702651,
             "changeTime": 1519328702651,
-            "contentHash": "8cadfd0d07e7806993992236df38483dffe8fa37"
+            "contentHash": "8cadfd0d07e7806993992236df38483dffe8fa37",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -336,21 +336,6 @@
             "modifiedTime": 1519327749115,
             "changeTime": 1519327749115,
             "contentHash": "414cc9e344a02671fb817b2d5164ecbb5e54f81c",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Park__c.field-meta.xml",
-        {
-            "sourcePath": "/Users/kpoorman/lpo/force-app/main/default/objects/Animal_Sighting__c/fields/Park__c.field-meta.xml",
-            "isDirectory": false,
-            "size": 606,
-            "modifiedTime": 1519327749115,
-            "changeTime": 1519327749115,
-            "contentHash": "cebb344891f2021b38df278f0ac352203bd36078",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
